@@ -241,12 +241,12 @@ Ao evitar sobrecargas e distribuir adequadamente a potência entre os carregador
 
 ## EMPS APP
 
-
+![EMPS APP](assets/app.png)
 
 
 ## EMPS SEMS+
 
-(Inserir imagens do dashboard)
+![EMPS SEMS+](assets/sems.png)
 
 ---
 
@@ -254,7 +254,7 @@ Ao evitar sobrecargas e distribuir adequadamente a potência entre os carregador
 
 Link:
 
-(Inserir link do vídeo)
+https://youtu.be/6UnCF11kqz8
 
 ---
 
