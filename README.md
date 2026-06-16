@@ -271,6 +271,14 @@ https://youtu.be/6UnCF11kqz8
 * GitHub
 
 ---
+# Como Utilizar a Solução
+
+1. Abrir o aplicativo EMPS APP.
+2. Selecionar o carregador desejado.
+3. Realizar o pagamento da sessão.
+4. Iniciar o carregamento.
+5. Acompanhar a sessão pelo dashboard EMPS SEMS+.
+6. Monitorar a distribuição de potência e indicadores energéticos.
 
 # Conclusão
 
